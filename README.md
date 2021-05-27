@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @8ightBits currently doing a Road to Sneaker Developer
 - 👀 I’m interested in SneakerBots
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript/Front End
 - 💞️ I’m looking to collaborate on SneakerBots/RetailBots
 - 📫 How to reach me twitter:@8ightBits 
 
