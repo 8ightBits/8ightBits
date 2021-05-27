@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript/Front End and Reverse Engineering 
 - 💞️ I’m looking to collaborate on SneakerBots/RetailBots
 - 📫 How to reach me twitter:@8ightBits 
+- 👨🏽‍💻 Languages I've used Java, Go, Python, C++, SQL
+- 🧠 I have a background in backend development/data science 
 
 <!---
 8ightBits/8ightBits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
